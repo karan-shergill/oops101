@@ -1,17 +1,43 @@
-# DSA-101
+# 🚀 DSA-101: Data Structures & Algorithms Mastery
 
-- [Linked List (40)](#linked-list-40)
-- [Binary Search (30)](#binary-search-30)
-- [Two Pointer(26)](#two-pointer26)
-- [Sliding Window(44)](#sliding-window44)
-- [Stack & Queue (35)](#stack--queue-35)
-- [Binary Tree(37)](#binary-tree37)
-- [Binary Search Tree (15)](#binary-search-tree-15)
-- [Heap (30)](#heap-30)
-- [Backtracking (18)](#backtracking-18)
-- [Dynamic Programming (47)](#dynamic-programming-47)
-- [Trie (10)](#trie-10)
-- [Graph (43)](#graph-43)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/)
+
+> **A comprehensive collection of 360+ carefully curated DSA problems for coding interview preparation**
+
+## 📊 Quick Stats
+
+| 📈 **Total Problems** | 🎯 **Topics Covered** | ⭐ **Difficulty** | 🔗 **Platforms** |
+|----------------------|----------------------|------------------|------------------|
+| **360+** | **12** | Easy to Hard | **3+** |
+
+## 🗂️ Table of Contents
+
+| 🧩 **Topic** | 📝 **Problems** | 🎯 **Focus Area** |
+|-------------|----------------|------------------|
+| [📎 Linked List](#-linked-list-40) | **40** | Pointers & Node Manipulation |
+| [🔍 Binary Search](#-binary-search-30) | **30** | Search & Optimization |
+| [👥 Two Pointer](#-two-pointer-26) | **26** | Array & String Techniques |
+| [🪟 Sliding Window](#-sliding-window-44) | **44** | Substring & Subarray Problems |
+| [📚 Stack & Queue](#-stack--queue-35) | **35** | LIFO & FIFO Operations |
+| [🌳 Binary Tree](#-binary-tree-37) | **37** | Tree Traversal & Manipulation |
+| [🔢 Binary Search Tree](#-binary-search-tree-15) | **15** | BST Operations & Properties |
+| [⛰️ Heap](#-heap-30) | **30** | Priority Queue & Heap Operations |
+| [🔄 Backtracking](#-backtracking-18) | **18** | Recursive Problem Solving |
+| [🧮 Dynamic Programming](#-dynamic-programming-47) | **47** | Optimization & Memoization |
+| [🔤 Trie](#-trie-10) | **10** | String & Prefix Operations |
+| [🕸️ Graph](#-graph-43) | **43** | Graph Algorithms & Traversal |
+
+---
+
+## 📋 Problem Categories
+
+### 🏆 Difficulty Legend
+- 🟢 **Easy** - Basic concepts and simple implementations
+- 🟡 **Medium** - Moderate complexity, requires good understanding
+- 🔴 **Hard** - Complex algorithms, advanced concepts
+- ⭐ **Must Practice** - Essential for interviews
 
 ## Linked List (40)
 
@@ -62,7 +88,7 @@
 15. Flatten The Multi-Level Single Linked List [[code360](https://www.naukri.com/code360/problems/flatten-the-multi-level-linked-list_839810)] ⭐️
 16. Flatten a Multilevel Doubly Linked List [[leetcode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)] ⭐️
 
-## Binary Search (30)
+## 🔍 Binary Search (30)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)]
@@ -96,7 +122,7 @@
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] ⭐️
 
-## Two Pointer(26)
+## 👥 Two Pointer (26)
 
 1. Left/Right Pointer (12)
     1. Valid Palindrome [[leetcode](https://leetcode.com/problems/valid-palindrome/description/)] [[gfg](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)] ⭐️
@@ -128,7 +154,7 @@
     6. Happy Number [[leetcode](https://leetcode.com/problems/happy-number/description/)] ⭐️
     7. Reverse Words in a String [[leetcode](https://leetcode.com/problems/reverse-words-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-words_696444)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)] ⭐️
 
-## Sliding Window(44)
+## 🪟 Sliding Window (44)
 
 1. Fixed Window Size (17)
     1. Max Sum Subarray of size K [[code360](https://www.naukri.com/code360/problems/maximum-of-all-subarrays-of-size-k_1170789)] [[gfg](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)]
@@ -178,7 +204,7 @@
     3. Count Binary Subarrays With Sum [[leetcode](https://leetcode.com/problems/binary-subarrays-with-sum/description/)] [[gfg](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1)] ⭐️
     4. Count Number of Nice Subarrays [[leetcode](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)] [[gfg](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1)] ⭐️
 
-## Stack & Queue (35)
+## 📚 Stack & Queue (35)
 
 1. Stack (17)
     1. Implement stack using an array [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)]
@@ -219,7 +245,7 @@
     14. Sliding Window Maximum [[leetcode](https://leetcode.com/problems/sliding-window-maximum/description/)] [[code360](https://www.naukri.com/code360/problems/sliding-window-maximum_980226)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)] ⭐️
     15. Maximum Width Ramp [[leetcode](https://leetcode.com/problems/maximum-width-ramp/description/)] ⭐️
 
-## Binary Tree(37)
+## 🌳 Binary Tree (37)
 
 1. Preorder Traversal (Recursive | Iterative | Morris ⭐️) [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] (Recursive | Iterative ⭐️ | Morris ⭐️)
@@ -259,7 +285,7 @@
 22. Maximum Path Sum [[leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)] [[code360](https://www.naukri.com/code360/problems/binary-tree-maximum-path-sum_1280142)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)] ⭐️
 23. Flatten Binary Tree to Linked List [[leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)] ⭐️
 
-## Binary Search Tree (15)
+## 🔢 Binary Search Tree (15)
 
 1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] - Recursive & Iterative
 2. Floor and Ceil in a BST [[code360](https://www.naukri.com/code360/problems/ceil-from-bst_920464)] [[gfg](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)]
@@ -277,7 +303,7 @@
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
 
-## Heap (30)
+## ⛰️ Heap (30)
 
 1. Basic (7)
     1. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)]
@@ -315,7 +341,7 @@
     1. Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
     2. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](http://naukri.com/code360/problems/find-median-from-data-stream_6212830)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)] ⭐️
 
-## Backtracking (18)
+## 🔄 Backtracking (18)
 
 1. Permutations of a String [[leetcode](https://leetcode.com/problems/permutations/description/)] [[gfg](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)] ⭐️
 2. Permutations II [[leetcode](https://leetcode.com/problems/permutations-ii/description/)]
@@ -336,7 +362,7 @@
 17. Sudoku Solver [[leetcode](https://leetcode.com/problems/sudoku-solver/description/)] [[gfg](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)] ⭐️
 18. Word Break II [[leetcode](https://leetcode.com/problems/word-break-ii/description/)] [[code360](https://www.naukri.com/code360/problems/983635)] [[gfg](https://www.geeksforgeeks.org/problems/word-break-part-23249/1)] ⭐️
 
-## Dynamic Programming (47)
+## 🧮 Dynamic Programming (47)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)]
     1. Min Cost Climbing Stairs [[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/description/)] [[gfg](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1)] ⭐️
@@ -386,7 +412,7 @@
     3. Longest Decreasing Subsequence [[code360](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300)]
     4. Longest Bitonic subsequence [[code360](https://www.naukri.com/code360/problems/longest-bitonic-sequence_1062688)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)]
 
-## Trie (10)
+## 🔤 Trie (10)
 
 1. Implement Tries [[leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_631356)] [[gfg](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)]
 2. Implement Trie II [[leetcode](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_1387095)] [[gfg](https://www.geeksforgeeks.org/problems/trie-delete/1)] ⭐️
@@ -399,7 +425,7 @@
 9. Remove Sub-Folders from the Filesystem [[leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)] ⭐️
 10. Word Search II [[leetcode](https://leetcode.com/problems/word-search-ii/description/)] [[code360](https://www.naukri.com/code360/problems/word-search_630520)] [[gfg](https://www.geeksforgeeks.org/problems/word-search-ii/0)] ⭐️
 
-## Graph (43)
+## 🕸️ Graph (43)
 
 1. BFS (Breadth First Search) 
     1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy67xg7)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
@@ -454,3 +480,63 @@
 10. Bellman-Ford Algorithm [[gfg](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)]
     1. Negative weight cycle [[gfg](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1)]
     2. Cheapest flight within K stops [[leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)] [[code360](https://www.naukri.com/code360/problems/saving-money_1171195)] [[gfg](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1?page=1&sortBy=newest&query=page1sortBynewest)] ⭐️
+
+---
+
+## 📚 Study Guide & Tips
+
+### 🎯 **How to Use This Guide**
+
+1. **📅 Create a Study Schedule**: Allocate 2-3 hours daily for consistent practice
+2. **🎬 Topic-wise Approach**: Complete one topic before moving to the next
+3. **⭐ Focus on Starred Problems**: These are most frequently asked in interviews
+4. **🔄 Regular Revision**: Revisit solved problems weekly to maintain understanding
+5. **⏱️ Time Management**: Practice solving problems within typical interview timeframes
+
+### 🏆 **Recommended Study Order**
+
+1. **🔧 Foundation**: Arrays, Strings, Basic Math
+2. **📎 Data Structures**: Linked Lists, Stacks, Queues
+3. **🌳 Trees & Graphs**: Binary Trees, BST, Graph Traversal
+4. **🎯 Algorithms**: Sorting, Searching, Two Pointers
+5. **🔄 Advanced**: Dynamic Programming, Backtracking
+6. **🏅 System Design**: For senior positions
+
+### 💡 **Problem-Solving Strategy**
+
+```
+1. 🤔 Understand the Problem
+   - Read carefully, identify constraints
+   - Work through examples manually
+
+2. 🧠 Think Before Coding
+   - Consider multiple approaches
+   - Analyze time/space complexity
+
+3. 💻 Code with Purpose
+   - Write clean, readable code
+   - Add comments for complex logic
+
+4. 🧪 Test Thoroughly
+   - Test with edge cases
+   - Verify your solution works
+
+5. 🚀 Optimize
+   - Look for better solutions
+   - Discuss trade-offs
+```
+
+### 🌟 **Success Tips**
+
+- **🎯 Quality over Quantity**: Better to solve 5 problems well than 20 poorly
+- **🗣️ Practice Explaining**: Articulate your approach clearly
+- **🔍 Learn from Solutions**: Study different approaches to the same problem
+- **💪 Stay Consistent**: Regular practice beats intensive cramming
+- **🤝 Join Communities**: Engage with other learners for motivation
+
+---
+
+<div align="center">
+  <h3>🎯 Happy Coding! May your algorithms be efficient and your interviews successful! 🚀</h3>
+  <p><em>Remember: Every expert was once a beginner. Keep practicing! 💪</em></p>
+</div>
