@@ -3,22 +3,6 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
-> **A comprehensive guide to Object-Oriented Programming concepts and Design Patterns with practical Java implementations.**
-
-## 📚 Table of Contents
-
-- [🎯 OOPs101 - Object-Oriented Programming \& Design Patterns](#-oops101---object-oriented-programming--design-patterns)
-  - [📚 Table of Contents](#-table-of-contents)
-  - [🌟 About](#-about)
-  - [🧠 OOP Fundamentals](#-oop-fundamentals)
-  - [🏗️ Design Patterns](#️-design-patterns)
-    - [🏭 Creational Patterns](#-creational-patterns)
-    - [🔧 Behavioral Patterns](#-behavioral-patterns)
-  - [📁 Project Structure](#-project-structure)
-
-## 🌟 About
-
-Welcome to **OOPs101**! This repository serves as a comprehensive learning resource for Object-Oriented Programming (OOP) concepts and Design Patterns. I learnt this during my interview prep journey.
 
 ## 🧠 OOP Fundamentals
 
