@@ -6,6 +6,8 @@
 2. [Command Design Pattern in Java](https://medium.com/@akshatsharma0610/command-design-pattern-in-java-1b8bbb699ff7)
 3. [Design Undo, Redo feature with Command Pattern](https://www.youtube.com/watch?v=E1lce5CWhE0)
 
+![command_pattern_example.png](../../images/command_pattern_example.png)
+
 ## Key Participants
 
 | Role | Responsibility & Rule‑of‑Thumb | Typical Name |
