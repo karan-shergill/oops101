@@ -6,16 +6,12 @@
 
 ## 🧠 OOP Fundamentals
 
-Master the core principles of Object-Oriented Programming:
-
 | 📖 Topic | 📝 Description |
 |----------|----------------|
 | **[OOP Concepts](https://github.com/karan-shergill/oops101/blob/main/oops.md)** | Dive deep into the four pillars of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction |
 | **[Design Principles](https://github.com/karan-shergill/oops101/blob/main/object_oriented_design_principles.md)** | Learn SOLID principles and other essential design guidelines for maintainable code |
 
 ## 🏗️ Design Patterns
-
-Explore battle-tested solutions to common programming problems:
 
 ### 🏭 Creational Patterns
 
