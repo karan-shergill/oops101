@@ -1,7 +1,5 @@
 # Builder Design Patterns
 
-![builder_pattern_def.png](../../../images/builder_pattern_def.png)
-
 1. [How does the Builder Design Pattern solve problems like URL creation?](https://youtu.be/4ff_KZdvJn8)
 2. [The Builder Pattern Explained and Implemented in Java](https://youtu.be/MaY_MDdWkQw)
 3. [Builder Design Pattern in detail with Code and Explanation](https://youtu.be/zAByFmRs6No) ⭐️
